@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendApplication</string>
+    <string name="sendText">Send Text</string>
+    <string name="send_to">Share</string>
+    <string name="sendImage">Send Image</string>
+    <string name="sendMultiple">Send Multiple</string>
+</resources>
